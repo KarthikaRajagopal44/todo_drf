@@ -1,1 +1,1 @@
-Django Rest Framework | Serializers & CRUD
+Django Rest Framework | Serializers & CRUD.
